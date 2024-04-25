@@ -6,12 +6,7 @@ Welcome to the Social Media Platform project built using Django! This project ai
 ## Table of Contents
 
 - [Features](#features)
-- [Getting Started](#getting-started)
-  - [Prerequisites](#prerequisites)
-  - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-
 
 ## Features
 
